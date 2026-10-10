@@ -26,4 +26,4 @@ The pull request status and the achievement status are separate observations. Th
 
 ## Current state
 
-The owner review, manual merge, and achievement observation remain pending until they are performed.
+The first workflow PR, [#1](https://github.com/biawakLahat/pull-request-lab/pull/1), was authored by Alice699 and merged into `main` by biawakLahat at 2026-10-10T05:07:21Z. Achievement observations are recorded separately from this completed merge.
