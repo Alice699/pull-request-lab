@@ -1,2 +1,13 @@
-# pull-request-lab
-A public sandbox for practicing fork-based GitHub contributions between biawakLahat and Alice699.
+# Pull Request Lab
+
+A small public repository for practicing fork-based GitHub contributions.
+
+## Workflow experiment
+
+- Repository owner: [biawakLahat](https://github.com/biawakLahat).
+- Contributor: [Alice699](https://github.com/Alice699).
+- Alice699 forks the repository and opens a documentation pull request.
+- biawakLahat reviews and merges the pull request manually.
+- The resulting PR author, merger, merge time, and any achievement changes can then be observed.
+
+This is a controlled workflow experiment using two accounts. No achievement outcome has been recorded yet, and a merge does not guarantee that GitHub will award a badge.
