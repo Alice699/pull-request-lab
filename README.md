@@ -15,3 +15,5 @@ This is a controlled workflow experiment using two accounts. No achievement outc
 ## Contribution guide
 
 See [the pull request workflow guide](docs/pull-request-workflow.md) for contribution steps, review checks, and post-merge observations.
+
+See [the co-authored commit guide](docs/co-authored-commits.md) for author metadata and the owner review steps.
