@@ -11,3 +11,7 @@ A small public repository for practicing fork-based GitHub contributions.
 - The resulting PR author, merger, merge time, and any achievement changes can then be observed.
 
 This is a controlled workflow experiment using two accounts. No achievement outcome has been recorded yet, and a merge does not guarantee that GitHub will award a badge.
+
+## Contribution guide
+
+See [the pull request workflow guide](docs/pull-request-workflow.md) for contribution steps, review checks, and post-merge observations.
